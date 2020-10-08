@@ -1,0 +1,81 @@
+[{
+    "id": 0,
+    "title": "Achilles' Heel",
+    "description": "A scalable full-stack MERN MVC app transporting users to a realm of bright, educational games in Ancient Greece to mitigate stress (MERN MVC, Leaflet, Mapbox, Dicebear, Google Auth APIs, Material UI, Inkscape)"  ,
+    "image": "achilles.png",
+    "link1": "https://github.com/erin-smith/Achilles-heel",
+    "link2": "https://achilles-heel.herokuapp.com/",
+    "bgcolor": "peru"
+}, 
+{
+    "id": 1,
+    "title": "Skip to the Loo",
+    "description": "A User-driven full-stack application that identifies nearby public restrooms in times of need, pertinent during the era of COVID-19. (MySQL, Node, Express, Handlebars, Sequelize ORM, Google Places API)!",
+    "image": "loo_logo.jpg",
+    "link1": "https://github.com/erin-smith/loo",
+    "link2": "http://skip-to-the-loo.com",
+    "bgcolor": "lightseagreen"
+}, 
+{
+    "id": 2,
+    "title": "Purple Pages",
+    "description": "Group API Project:  A vital web application for finding which streaming service offers the TV show, sports program or film that you want to watch right NOW!",
+    "image": "purplepages.png",
+    "link1": "https://github.com/erin-smith/Purple-Pages",
+    "link2": "https://erin-smith.github.io/Purple-Pages/",
+    "bgcolor": "slateblue"
+}, 
+{
+    "id": 3,
+    "title": "Scheduler",
+    "description": "This schedule-planner displays a daily 8am-6pm calendar and allows the user to plan appointments for each hour of the day. You can generate a new quote of the day as a daily heading for fun or inspiration.",
+    "image": "scheduler.png",
+    "link1": "https://github.com/erin-smith/schedule-planner",
+    "link2": "https://erin-smith.github.io/schedule-planner",
+    "bgcolor": "lightgreen"
+}, 
+{
+    "id": 4,
+    "title": "Resume Tile",
+    "description": "This is an update of my First Webpage, Resume, Bio, and Current Contact Info.",
+    "image": "myfirstpage.png",
+    "link1": "https://github.com/erin-smith/resume",
+    "link2": "https://erin-smith.github.io/resume/",
+    "bgcolor": "firebrick"
+}, 
+{
+    "id": 5,
+    "title": "Burger",
+    "description": "A MVC structured app where you can create and devour burgers and interact with a gourmet menu (MySQL, Node, Express, Handlebars, ORM )!",
+    "image": "burgerShot.png",
+    "link1": "https://github.com/erin-smith/burger",
+    "link2": "https://frozen-harbor-42097.herokuapp.com/",
+    "bgcolor": "goldenrod"
+}, 
+{
+    "id": 6,
+    "title": "JavaScript Quiz",
+    "description": "This a timed, multiple-choice JavaScript quiz that utilizes event clicks, elements that disappear and reappear, hover, and overlay.",
+    "image": "quiz.png",
+    "link1": "https://github.com/erin-smith/Quiz",
+    "link2": "https://erin-smith.github.io/Quiz/",
+    "bgcolor": "indianred"
+}, 
+{
+    "id": 7,
+    "title": "Team Generator",
+    "description": "A Node CLI app that generates a webpage of ID cards displaying your Software Team. Cards have user input and define a clear summary of info fro each member.",
+    "image": "team.png",
+    "link1": "https://github.com/erin-smith/team-generator",
+    "link2": "https://www.youtube.com/watch?v=px2xPOccoKU",
+    "bgcolor": "cadetblue"
+}, 
+{
+    "id": 8,
+    "title": "Kill the Virus!",
+    "description": "Inspired by COVID-19 back in March 20, This is my first ever videogame made in Scratch!",
+    "image": "game.png",
+    "link1": "https://scratch.mit.edu/projects/378910339/",
+    "link2": "https://scratch.mit.edu/projects/378910339/",
+    "bgcolor": "lawngreen"
+}]

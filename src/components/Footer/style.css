@@ -1,0 +1,61 @@
+.footer {
+    background-color:#343a40;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    margin-top: auto; 
+    font-size: 20px;
+    padding: 3px;
+    padding-top: 3px;
+}
+
+.footer-icons a {
+  float: right;
+	cursor: pointer;
+	background-color:  #33383b;
+	border-radius: 2px;
+	font-size: 20px;
+	color: #ffffff;
+  margin-top: 5px;
+	margin-right: 20px;
+  margin-bottom: 5px;
+}
+
+
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 900px) {
+    .column {
+      width: 50%;
+    }
+    .navbar-nav {
+      text-align: center;
+      display: inline block;
+      font-size: smaller;
+  }
+
+  .navbar-brand {
+      width: 100%;
+      margin: auto;
+      text-align: center;
+  }
+
+  .navbar {
+      padding: 0;
+      margin: 0;
+      width: 100%;
+  }
+}
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+    .footer{
+      text-align: center;
+      display: inline block;
+      font-size: smaller;
+      padding: 0;
+      margin: 0;
+  }
+} 

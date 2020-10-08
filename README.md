@@ -15,7 +15,7 @@ The portfolio contains a Full-Stack app for Achilles heel, Skip-to-the-Loo, Purp
 
 [Link to project](https://erin-smith.github.io/portfolio/)
 
-![Screenshot](portfolio/src/images/cards.png)    
+![Screenshot](/src/images/cards.png)    
 
 
 ## Contributing   

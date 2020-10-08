@@ -32,7 +32,7 @@ The portfolio contains a Full-Stack app for Achilles heel, Skip-to-the-Loo, Purp
 ## Questions:  
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/erin-smith)  
 
-  If you have any questions about the repo, [open an issue](https://github.com/erin-smith/react-portfolio/issues/new) or contact me:  
+  If you have any questions about the repo, [open an issue](https://github.com/erin-smith/portfolio/issues/new) or contact me:  
 
 * [My GitHub Profile](http://github.com/erin-smith)
 * [![Email Me!](https://img.shields.io/badge/email:-erin.acumen@gmail.com-9cf.svg)](<"mailto:erin.acumen@gmail.com">)  

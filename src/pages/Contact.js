@@ -76,12 +76,10 @@ handleFormSubmit = event => {
     // Notice how each input has a `value`, `name`, and `onChange` prop
     return (
         <div className="container" id="boxz">
-        <div className="header p-3">
-          <h4>Contact Me Here!</h4>
-        </div>
+          <h4 className="contactHead">Contact Me Here!</h4>
         <form className="contact-form" method="post">
-        <div className="form-group">
-          <label htmlFor="name">Name:</label>
+        <div className="form-inline">
+          <label for="name" className="mr-2">Name:</label>
           <input
             value={this.state.fullName}
             id="name"
@@ -89,23 +87,21 @@ handleFormSubmit = event => {
             onChange={this.handleInputChange}
             type="text"
             placeholder="Full Name"
-            className="form-control"
+            className="form-control mb-2 mr-sm-2"
           />
-          </div>
-           <div className="form-group">
-           <label htmlFor="email">Email address:</label>
+           <label className="mr-2" for="email">Email address:</label>
           <input
             value={this.state.email}
             id="email"
             name="email"
             onChange={this.handleInputChange}
             type="text"
-            placeholder="example@domain.com"
-            className="form-control"
+            placeholder="myEmail@domain.com"
+            className="form-control mb-2 mr-sm-2"
           />
           </div>
           <div className="form-group">
-          <label htmlFor="message">Message:</label>
+          <label className="msg" htmlFor="message">Message:</label>
           <textarea
             id="message"
             value={this.state.message}
@@ -114,10 +110,13 @@ handleFormSubmit = event => {
             type="message"
             rows="3"
             maxLength="500"
-            placeholder="Message"
+            placeholder=" Your Message Here:"
             className="form-control"/>
           </div>
+          <div className="form-inline">
           <input id="mail" type="submit" name="submit" className="btn btn-info active" value="Send Message" onClick={this.handleFormSubmit}/>
+          <h6 className="ml-4" id="or">(Or click the footer icons.)</h6>
+          </div>
       </form>
       </div>
     );

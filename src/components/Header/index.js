@@ -8,7 +8,7 @@ function Header() {
 
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark p-2">
-          <a className= "navbar-brand" href="/react-portfolio">
+          <a className= "navbar-brand" href="/portfolio">
         <img alt="latte art tulip" src="https://s3-media0.fl.yelpcdn.com/bphoto/Q7bdFrX8vI403fAF-BP6-Q/o.jpg" id="tulip" className="d-inline-block align-top"  />
          Erin Smith</a>
       <div className="navbar-collapse" id="navnav">

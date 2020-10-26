@@ -13,6 +13,8 @@ function Footer() {
               className="fab fa-linkedin"></i></a>
           <a href="https://www.instagram.com/miss_sparkle_plenty/" target="_blank" rel="noopener noreferrer" alt="Instagram" height="50px"><i
               className="fab fa-instagram"></i></a>
+          <a href="mailto:erin.acumen@gmail.com" target="_blank" rel="noopener noreferrer" alt="Email" height="50px"><i
+              className="fas fa-at"></i></a>
         </div>
       </div>
     </footer>

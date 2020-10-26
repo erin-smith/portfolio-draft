@@ -5,9 +5,9 @@
     width: 100%;
     color: white;
     margin-top: auto; 
-    font-size: 20px;
-    padding: 3px;
-    padding-top: 3px;
+    font-size: 25px;
+    padding: 2px;
+    padding-top: 2px;
 }
 
 .footer-icons a {
@@ -17,9 +17,9 @@
 	border-radius: 2px;
 	font-size: 20px;
 	color: #ffffff;
-  margin-top: 5px;
-	margin-right: 20px;
-  margin-bottom: 5px;
+  margin-top: 3px;
+	margin-right: 25px;
+  margin-bottom: 3px;
 }
 
 
